@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 #####
-# solution to advent of coding, December 2
+# solution to advent of coding, December 3
 #####
 
 """
